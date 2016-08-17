@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnersApp_AbleVarghese", "LearnersApp\LearnersApp_AbleVarghese.csproj", "{BB74CA3B-548C-4A2D-BEB6-EB6447242252}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbleVarghese_Lab03_Part02_UsingLINQ", "LearnersApp\AbleVarghese_Lab03_Part02_UsingLINQ.csproj", "{BB74CA3B-548C-4A2D-BEB6-EB6447242252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbleVargheseM16_Lab3_Ex1", "DBInteractionProject\AbleVargheseM16_Lab3_Ex1.csproj", "{1A7EAC17-4659-449B-A1BA-225B51F81856}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbleVarghese_Lab03_Part01_ParameterizedQueries", "DBInteractionProject\AbleVarghese_Lab03_Part01_ParameterizedQueries.csproj", "{1A7EAC17-4659-449B-A1BA-225B51F81856}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
